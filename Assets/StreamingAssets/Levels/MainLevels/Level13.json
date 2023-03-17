@@ -1,0 +1,92 @@
+{
+    "isMainLevel": true,
+    "levelID": 13,
+    "maxDrawPointAmount": 100,
+    "pointMilestones": [
+        20,
+        40,
+        60
+    ],
+    "backgroundIndex": 2,
+    "layers": [
+        {
+            "layerID": "Terrain",
+            "tiles": [
+                "Terrain2",
+                "Terrain2",
+                "Terrain2",
+                "Terrain2",
+                "Terrain2",
+                "Terrain2",
+                "Terrain2",
+                "Terrain2",
+                "Terrain2"
+            ],
+            "tilePositions": [
+                {
+                    "x": -18,
+                    "y": -7,
+                    "z": 0
+                },
+                {
+                    "x": -14,
+                    "y": -7,
+                    "z": 0
+                },
+                {
+                    "x": -10,
+                    "y": -7,
+                    "z": 0
+                },
+                {
+                    "x": -6,
+                    "y": -7,
+                    "z": 0
+                },
+                {
+                    "x": -2,
+                    "y": -7,
+                    "z": 0
+                },
+                {
+                    "x": 2,
+                    "y": -7,
+                    "z": 0
+                },
+                {
+                    "x": 6,
+                    "y": -7,
+                    "z": 0
+                },
+                {
+                    "x": 10,
+                    "y": -7,
+                    "z": 0
+                },
+                {
+                    "x": 14,
+                    "y": -7,
+                    "z": 0
+                }
+            ]
+        }
+    ],
+    "gameObjectData": {
+        "gameObjectsInGame": [
+            "Player1(Clone)",
+            "Player2(Clone)"
+        ],
+        "gameObjectPositions": [
+            {
+                "x": -3.4228177070617677,
+                "y": 6.480984687805176,
+                "z": 0.0
+            },
+            {
+                "x": 4.630873203277588,
+                "y": 6.570469856262207,
+                "z": 0.0
+            }
+        ]
+    }
+}

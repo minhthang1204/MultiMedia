@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - UnfinishedLine
+  - FinishedLine
+  - NotLine
+  - 
+  - Terrain
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3753279103
+    locked: 0
+  - name: MenuBackground
+    uniqueID: 3056867191
+    locked: 0
+  - name: GameBackground
+    uniqueID: 3563010917
+    locked: 0
+  - name: Player
+    uniqueID: 818147773
+    locked: 0
+  - name: Line
+    uniqueID: 975091741
+    locked: 0
+  - name: GameTerrain
+    uniqueID: 2144149019
+    locked: 0
+  - name: GuideGrid
+    uniqueID: 1871806529
+    locked: 0
+  - name: UI
+    uniqueID: 270314729
+    locked: 0
+  - name: Transition
+    uniqueID: 2411754671
+    locked: 0

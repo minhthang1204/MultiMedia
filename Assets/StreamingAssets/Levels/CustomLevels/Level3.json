@@ -1,0 +1,84 @@
+{
+    "isMainLevel": false,
+    "levelID": 3,
+    "maxDrawPointAmount": 100,
+    "pointMilestones": [
+        10,
+        30,
+        40
+    ],
+    "backgroundIndex": 1,
+    "layers": [
+        {
+            "layerID": "Terrain",
+            "tiles": [
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1"
+            ],
+            "tilePositions": [
+                {
+                    "x": -13,
+                    "y": -9,
+                    "z": 0
+                },
+                {
+                    "x": -12,
+                    "y": -9,
+                    "z": 0
+                },
+                {
+                    "x": -11,
+                    "y": -9,
+                    "z": 0
+                },
+                {
+                    "x": -10,
+                    "y": -9,
+                    "z": 0
+                },
+                {
+                    "x": -9,
+                    "y": -9,
+                    "z": 0
+                },
+                {
+                    "x": -8,
+                    "y": -9,
+                    "z": 0
+                },
+                {
+                    "x": -7,
+                    "y": -9,
+                    "z": 0
+                },
+                {
+                    "x": -6,
+                    "y": -9,
+                    "z": 0
+                },
+                {
+                    "x": -5,
+                    "y": -9,
+                    "z": 0
+                },
+                {
+                    "x": -4,
+                    "y": -9,
+                    "z": 0
+                }
+            ]
+        }
+    ],
+    "gameObjectData": {
+        "gameObjectsInGame": [],
+        "gameObjectPositions": []
+    }
+}

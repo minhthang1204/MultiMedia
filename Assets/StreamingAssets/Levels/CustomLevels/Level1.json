@@ -1,0 +1,284 @@
+{
+    "isMainLevel": false,
+    "levelID": 1,
+    "maxDrawPointAmount": 100,
+    "pointMilestones": [
+        20,
+        30,
+        80
+    ],
+    "backgroundIndex": 0,
+    "layers": [
+        {
+            "layerID": "Terrain",
+            "tiles": [
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1",
+                "Terrain1"
+            ],
+            "tilePositions": [
+                {
+                    "x": -15,
+                    "y": 5,
+                    "z": 0
+                },
+                {
+                    "x": -14,
+                    "y": 5,
+                    "z": 0
+                },
+                {
+                    "x": -14,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -13,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -12,
+                    "y": 1,
+                    "z": 0
+                },
+                {
+                    "x": -12,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -11,
+                    "y": 1,
+                    "z": 0
+                },
+                {
+                    "x": -11,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -10,
+                    "y": 1,
+                    "z": 0
+                },
+                {
+                    "x": -10,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -9,
+                    "y": 1,
+                    "z": 0
+                },
+                {
+                    "x": -9,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -8,
+                    "y": 1,
+                    "z": 0
+                },
+                {
+                    "x": -8,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -7,
+                    "y": 1,
+                    "z": 0
+                },
+                {
+                    "x": -7,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -6,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": -6,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -5,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": -5,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -4,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": -4,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -3,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": -3,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -2,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": -2,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": -1,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": -1,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": 1,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": 1,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": 2,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": 2,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": 3,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": 3,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": 4,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": 4,
+                    "y": 6,
+                    "z": 0
+                },
+                {
+                    "x": 5,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": 6,
+                    "y": 2,
+                    "z": 0
+                },
+                {
+                    "x": 7,
+                    "y": 2,
+                    "z": 0
+                }
+            ]
+        }
+    ],
+    "gameObjectData": {
+        "gameObjectsInGame": [
+            "Player1(Clone)",
+            "Player2(Clone)"
+        ],
+        "gameObjectPositions": [
+            {
+                "x": -9.642057418823243,
+                "y": 4.5570478439331059,
+                "z": 0.0
+            },
+            {
+                "x": 0.20134185254573823,
+                "y": 4.422819137573242,
+                "z": 0.0
+            }
+        ]
+    }
+}
